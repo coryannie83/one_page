@@ -1,0 +1,77 @@
+* {
+
+}
+
+body {
+  background-color: white;
+  color: black;
+}
+
+#world {
+
+display: inline-block;
+width: 35%;
+margin-left: 20%;
+height: 400px;
+}
+
+#info {
+  display: inline-block;
+  text-align: center;
+  width: 30%;
+  font-family: helvetica, arial, sans-serif;
+
+}
+
+#out {
+  display: inline-block;
+  width: 100%;
+}
+
+#timezone {
+  color: #FE642E;
+}
+
+.button {
+display: inline-block;
+color: white;
+font-family: helvetica, arial, sans-serif;
+width: 100%%;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 5px;
+padding-right: 5px;
+background-color: #FE642E;
+text-decoration: none;
+
+}
+
+
+#eventstart {
+  text-align: center;
+  color: grey;
+  margin-top: 100px;
+  margin-bottom: 20px;
+  background-color: #A9F5F2;
+  padding-top: 50px;
+  padding-bottom: 10px;
+  height: 300px;
+}
+
+#counter {
+  margin-left: 300px;
+}
+
+
+
+.timecard {
+background-color: white;
+float: left;
+padding: 20px;
+margin: 7px;
+width: 130px;
+text-align: center;
+
+
+
+}
